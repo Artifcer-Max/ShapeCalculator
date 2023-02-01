@@ -1,0 +1,16 @@
+C:\Users\saint\Downloads\Tafe Documents\ICTPRG432 (Develop Data-driven Applications)\Assessment 1\C# Code\ShapeCalculator\ShapeCalculator\bin\Debug\net5.0\ShapeCalculator.exe
+C:\Users\saint\Downloads\Tafe Documents\ICTPRG432 (Develop Data-driven Applications)\Assessment 1\C# Code\ShapeCalculator\ShapeCalculator\bin\Debug\net5.0\ShapeCalculator.deps.json
+C:\Users\saint\Downloads\Tafe Documents\ICTPRG432 (Develop Data-driven Applications)\Assessment 1\C# Code\ShapeCalculator\ShapeCalculator\bin\Debug\net5.0\ShapeCalculator.runtimeconfig.json
+C:\Users\saint\Downloads\Tafe Documents\ICTPRG432 (Develop Data-driven Applications)\Assessment 1\C# Code\ShapeCalculator\ShapeCalculator\bin\Debug\net5.0\ShapeCalculator.runtimeconfig.dev.json
+C:\Users\saint\Downloads\Tafe Documents\ICTPRG432 (Develop Data-driven Applications)\Assessment 1\C# Code\ShapeCalculator\ShapeCalculator\bin\Debug\net5.0\ShapeCalculator.dll
+C:\Users\saint\Downloads\Tafe Documents\ICTPRG432 (Develop Data-driven Applications)\Assessment 1\C# Code\ShapeCalculator\ShapeCalculator\bin\Debug\net5.0\ShapeCalculator.pdb
+C:\Users\saint\Downloads\Tafe Documents\ICTPRG432 (Develop Data-driven Applications)\Assessment 1\C# Code\ShapeCalculator\ShapeCalculator\obj\Debug\net5.0\ShapeCalculator.csproj.AssemblyReference.cache
+C:\Users\saint\Downloads\Tafe Documents\ICTPRG432 (Develop Data-driven Applications)\Assessment 1\C# Code\ShapeCalculator\ShapeCalculator\obj\Debug\net5.0\ShapeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saint\Downloads\Tafe Documents\ICTPRG432 (Develop Data-driven Applications)\Assessment 1\C# Code\ShapeCalculator\ShapeCalculator\obj\Debug\net5.0\ShapeCalculator.AssemblyInfoInputs.cache
+C:\Users\saint\Downloads\Tafe Documents\ICTPRG432 (Develop Data-driven Applications)\Assessment 1\C# Code\ShapeCalculator\ShapeCalculator\obj\Debug\net5.0\ShapeCalculator.AssemblyInfo.cs
+C:\Users\saint\Downloads\Tafe Documents\ICTPRG432 (Develop Data-driven Applications)\Assessment 1\C# Code\ShapeCalculator\ShapeCalculator\obj\Debug\net5.0\ShapeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\saint\Downloads\Tafe Documents\ICTPRG432 (Develop Data-driven Applications)\Assessment 1\C# Code\ShapeCalculator\ShapeCalculator\obj\Debug\net5.0\ShapeCalculator.dll
+C:\Users\saint\Downloads\Tafe Documents\ICTPRG432 (Develop Data-driven Applications)\Assessment 1\C# Code\ShapeCalculator\ShapeCalculator\obj\Debug\net5.0\refint\ShapeCalculator.dll
+C:\Users\saint\Downloads\Tafe Documents\ICTPRG432 (Develop Data-driven Applications)\Assessment 1\C# Code\ShapeCalculator\ShapeCalculator\obj\Debug\net5.0\ShapeCalculator.pdb
+C:\Users\saint\Downloads\Tafe Documents\ICTPRG432 (Develop Data-driven Applications)\Assessment 1\C# Code\ShapeCalculator\ShapeCalculator\obj\Debug\net5.0\ShapeCalculator.genruntimeconfig.cache
+C:\Users\saint\Downloads\Tafe Documents\ICTPRG432 (Develop Data-driven Applications)\Assessment 1\C# Code\ShapeCalculator\ShapeCalculator\obj\Debug\net5.0\ref\ShapeCalculator.dll
